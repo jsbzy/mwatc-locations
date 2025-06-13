@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Air Traffic Control Tower Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet" />
+  <style>
+    body { margin:0; padding:0; }
+    #map { height: 90vh; width: 100vw; border-radius: 8px; margin-top: 20px; }
+    .mapboxgl-popup-content { font-family: Arial, sans-serif; }
+    .popup-title { color: #004B62; font-weight: bold; font-size: 1.1em; }
+    .popup-address { margin-top: 4px; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiamVmZmJ6eSIsImEiOiJjbTg4OHJsaXAwZmdwMmtvZ3FlbzB4bmRyIn0.SUgWHyOO4LyxDpDhkGyNtA';
+
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/streets-v11',
+      center: [-90, 40],
+      zoom: 4
+    });
+
+    map.addControl(new mapboxgl.NavigationControl());
+
+    map.on('load', () => {
+      const data = 
+// ... existing code ...
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.79866,
+          35.15482
+        ]
+      },
+      "properties": {
+        "code": "AEG",
+        "name": "Double Eagle II Airport FCT",
+        "address": "7401 Atrisco Vista Blvd #7, Albuquerque, NM 87120"
+      }
+    },
+// ... existing code ...
+// (Insert all other features here, up to the last one)
+// ... existing code ...
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.295435,
+          38.519534
+        ]
+      },
+      "properties": {
+        "code": "MCB",
+        "name": "Airspace SME Support and Range Airspace Course Instruction",
+        "address": "Marine Corps Base Quantico, Quantico, VA "
+      }
+    }
+  ]
+};
+// ... existing code ...
+      map.addSource('locations', {
+        type: 'geojson',
+        data: data,
+        cluster: true,
+        clusterMaxZoom: 10,
+        clusterRadius: 50
+      });
+
+      map.addLayer({
+        id: 'clusters',
+        type: 'circle',
+        source: 'locations',
+        filter: ['has', 'point_count'],
+        paint: {
+          'circle-color': '#004B62',
+          'circle-radius': [
+            'step',
+            ['get', 'point_count'],
+            18, 10, 24, 30, 32
+          ],
+          'circle-opacity': 0.85
+        }
+      });
+
+      map.addLayer({
+        id: 'cluster-count',
+        type: 'symbol',
+        source: 'locations',
+        filter: ['has', 'point_count'],
+        layout: {
+          'text-field': '{point_count_abbreviated}',
+          'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+          'text-size': 14
+        },
+        paint: {
+          'text-color': '#fff'
+        }
+      });
+
+      map.addLayer({
+        id: 'unclustered-point',
+        type: 'circle',
+        source: 'locations',
+        filter: ['!', ['has', 'point_count']],
+        paint: {
+          'circle-color': '#004B62',
+          'circle-radius': 8,
+          'circle-stroke-width': 2,
+          'circle-stroke-color': '#fff'
+        }
+      });
+
+      map.on('click', 'unclustered-point', (e) => {
+        const props = e.features[0].properties;
+        const popupHTML = `
+          <div class="popup-title">${props.code} (${props.name})</div>
+          <div class="popup-address">${props.address}</div>
+        `;
+        new mapboxgl.Popup()
+          .setLngLat(e.features[0].geometry.coordinates)
+          .setHTML(popupHTML)
+          .addTo(map);
+      });
+
+      map.on('click', 'clusters', (e) => {
+        const features = map.queryRenderedFeatures(e.point, { layers: ['clusters'] });
+        const clusterId = features[0].properties.cluster_id;
+        map.getSource('locations').getClusterExpansionZoom(clusterId, (err, zoom) => {
+          if (err) return;
+          map.easeTo({
+            center: features[0].geometry.coordinates,
+            zoom: zoom
+          });
+        });
+      });
+
+      map.on('mouseenter', 'clusters', () => { map.getCanvas().style.cursor = 'pointer'; });
+      map.on('mouseleave', 'clusters', () => { map.getCanvas().style.cursor = ''; });
+      map.on('mouseenter', 'unclustered-point', () => { map.getCanvas().style.cursor = 'pointer'; });
+      map.on('mouseleave', 'unclustered-point', () => { map.getCanvas().style.cursor = ''; });
+    });
+  </script>
+</body>
+</html> 
