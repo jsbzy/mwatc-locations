@@ -1,0 +1,1580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.79866,
+          35.15482
+        ]
+      },
+      "properties": {
+        "code": "AEG",
+        "name": "Double Eagle II Airport FCT",
+        "address": "7401 Atrisco Vista Blvd #7, Albuquerque, NM 87120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05567,
+          38.890779
+        ]
+      },
+      "properties": {
+        "code": "ALN",
+        "name": "St. Louis Regional Airport FCT",
+        "address": "14 Terminal Drive, East Alton, IL 62024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21423,
+          45.129799
+        ]
+      },
+      "properties": {
+        "code": "ANE",
+        "name": "Anoka County Blaine Airport FCT",
+        "address": "8891 Airport Road Box C-1, Blaine, MN 55449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.515969,
+          42.780027
+        ]
+      },
+      "properties": {
+        "code": "ASH",
+        "name": "Boire Field Airport FCT",
+        "address": "79 Perimeter Road, Nashua, NH 03063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51144,
+          44.25926
+        ]
+      },
+      "properties": {
+        "code": "ATW",
+        "name": "Appleton International Airport FCT",
+        "address": "W6392 Challenger Drive, Appleton, WI 54914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.720695,
+          42.160177
+        ]
+      },
+      "properties": {
+        "code": "BAF",
+        "name": "Westfield-Barnes Regional Airport FCT",
+        "address": "114 Airport Road, Westfield, MA 01085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.896506,
+          39.255517
+        ]
+      },
+      "properties": {
+        "code": "BAK",
+        "name": "Columbus Municipal Airport FCT",
+        "address": "4770 Ray Boll Blvd., Columbus, IN 47203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.198793,
+          36.538612
+        ]
+      },
+      "properties": {
+        "code": "BBG",
+        "name": "Branson Airport FCT",
+        "address": "4000 Branson Airport Blvd., Hollister, MO 65672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.129288,
+          41.16357
+        ]
+      },
+      "properties": {
+        "code": "BDR",
+        "name": "Igor I. Sikorsky Memorial Airport FCT",
+        "address": "1100 Great Meadow Road, Stratford, CT 06615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.689452,
+          41.511739
+        ]
+      },
+      "properties": {
+        "code": "BKL",
+        "name": "Burke Lakefront Airport FCT",
+        "address": "1501 N. Marginal Rd., Cleveland, OH 44114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61281,
+          39.14785
+        ]
+      },
+      "properties": {
+        "code": "BMG",
+        "name": "Monroe County Airport FCT",
+        "address": "964 South Kirby Road, Bloomington, IN 47403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.90737,
+          40.473278
+        ]
+      },
+      "properties": {
+        "code": "BMI",
+        "name": "Central Illinois Regional Airport FCT",
+        "address": "4108 E. Oakland Ave., Bloomington, IL 61704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.252717,
+          42.301172
+        ]
+      },
+      "properties": {
+        "code": "BTL",
+        "name": "Battle Creek Executive Airport at Kellogg Field FCT",
+        "address": "16061 South Airport Rd., Battle Creek, MI 49015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.912599,
+          42.585535
+        ]
+      },
+      "properties": {
+        "code": "BVY",
+        "name": "Beverly Municipal Airport FCT",
+        "address": "52 L.P. Henderson Road, Beverly, MA 01915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.484228,
+          41.563361
+        ]
+      },
+      "properties": {
+        "code": "CGF",
+        "name": "Cuyahoga County Airport FCT",
+        "address": "5375 Avion Park Drive, Highland Heights, OH 44143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.815511,
+          33.271855
+        ]
+      },
+      "properties": {
+        "code": "CHD",
+        "name": "Chandler Municipal Airport",
+        "address": "2380 S. Airport Blvd., Chandler, AZ 85286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.449883,
+          38.138808
+        ]
+      },
+      "properties": {
+        "code": "CHO",
+        "name": "Charlottesville-Albemarle Airport FCT",
+        "address": "120 Bowen Loop, Suite 100, Charlottesville, VA 22911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2135,
+          38.81661
+        ]
+      },
+      "properties": {
+        "code": "COU",
+        "name": "Columbia Regional Airport FCT",
+        "address": "Rt. 1   11301 S. Rangeline Rd., Ashland, MO 65010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.667819,
+          44.784353
+        ]
+      },
+      "properties": {
+        "code": "CWA",
+        "name": "Central Wisconsin Airport FCT",
+        "address": "300 Aviation Way, Mosinee, WI 54455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.853593,
+          40.220761
+        ]
+      },
+      "properties": {
+        "code": "CXY",
+        "name": "Capital City Airport FCT",
+        "address": "200 Airport Rd., New Cumberland, PA 17070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.665504,
+          42.502268
+        ]
+      },
+      "properties": {
+        "code": "DBQ",
+        "name": "Dubuque Regional Airport FCT",
+        "address": "11100 Airport Road - RFD #3, Dubuque, IA 52001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87712,
+          39.834718
+        ]
+      },
+      "properties": {
+        "code": "DEC",
+        "name": "Decatur Airport FCT",
+        "address": "830 S Airport Rd., Decatur, IL 62521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00318,
+          42.40856
+        ]
+      },
+      "properties": {
+        "code": "DET",
+        "name": "Coleman A. Young Municipal Airport FCT",
+        "address": "11501 Conner, Detroit, MI 48213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.486865,
+          41.37394
+        ]
+      },
+      "properties": {
+        "code": "DXR",
+        "name": "Danbury Municipal Airport FCT",
+        "address": "88 Kenosia Avenue Ext., Danbury, CT 06810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.503404,
+          44.806981
+        ]
+      },
+      "properties": {
+        "code": "EAU",
+        "name": "Chippewa Valley Regional Airport FCT",
+        "address": "3801 Airport Rd. Mailing add: 3800 Starr Ave., Eau Claire, WI 54703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928958,
+          42.593859
+        ]
+      },
+      "properties": {
+        "code": "ENW",
+        "name": "Kenosha Airport FCT",
+        "address": "9930 52nd Street, Kenosha, WI 53144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.06991,
+          38.80593
+        ]
+      },
+      "properties": {
+        "code": "ESN",
+        "name": "Easton/Newnam Field Airport FCT",
+        "address": "9365 Jet Lane, Easton, MD 21601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.958166,
+          41.673806
+        ]
+      },
+      "properties": {
+        "code": "EWB",
+        "name": "New Bedford Regional Airport FCT",
+        "address": "1569 Airport Road, 2nd Floor Control Tower, New Bedford, MA 02746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04351,
+          35.077369
+        ]
+      },
+      "properties": {
+        "code": "EWN",
+        "name": "Coastal Carolina Regional Airport FCT",
+        "address": "1251 Aviation Dr, New Bern, NC 28562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.377362,
+          39.407343
+        ]
+      },
+      "properties": {
+        "code": "FDK",
+        "name": "Frederick Municipal Airport FCT",
+        "address": "111 Airport Drive East, Frederick, MD 21701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67177,
+          35.141449
+        ]
+      },
+      "properties": {
+        "code": "FLG",
+        "name": "Flagstaff Pulliam Airport FCT",
+        "address": "5960 S Liberator LN, Flagstaff, AZ 86005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.672624,
+          38.951812
+        ]
+      },
+      "properties": {
+        "code": "FOE",
+        "name": "Topeka-Forbes Airport FCT",
+        "address": "6430 SE Forbes Avenue, Topeka, KS 66619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.648345,
+          40.831733
+        ]
+      },
+      "properties": {
+        "code": "FOK",
+        "name": "Francis S. Gabreski Airport FCT",
+        "address": "Bldg 338, Francis Gabreski Airport, Westhampton Beach, NY 11978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.875096,
+          37.967851
+        ]
+      },
+      "properties": {
+        "code": "GCK",
+        "name": "Garden City Regional Airport FCT",
+        "address": "2245 South Airport Service Rd., Garden City, KS 67846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.298188,
+          33.527468
+        ]
+      },
+      "properties": {
+        "code": "GEU",
+        "name": "Glendale Regional Airport FCT",
+        "address": "6767 Glen Harbor Blvd, Glendale, AZ 85307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.04574,
+          41.331735
+        ]
+      },
+      "properties": {
+        "code": "GON",
+        "name": "Groton-New London Airport FCT",
+        "address": "157 Tower Avenue, Groton, CT 06340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.339361,
+          40.92496
+        ]
+      },
+      "properties": {
+        "code": "GRI",
+        "name": "Central Nebraska Regional Airport FCT",
+        "address": "3815 N. Sky Park Road, Grand Island, NE 68801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.36599,
+          33.42711
+        ]
+      },
+      "properties": {
+        "code": "GYR",
+        "name": "Phoeniz Goodyear Airport FCT",
+        "address": "1658 S. Litchfield Rd Bldg 9, Goodyear, AZ 85338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42039,
+          41.6296
+        ]
+      },
+      "properties": {
+        "code": "GYY",
+        "name": "Gary/Chicago International Airport FCT",
+        "address": "6001 W. Industrial Highway, Gary, IN 46406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.652796,
+          41.744755
+        ]
+      },
+      "properties": {
+        "code": "HFD",
+        "name": "Hartford-Brainard Airport FCT",
+        "address": "1 Lindberg Drive, Hartford, CT 06114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73068,
+          39.71059
+        ]
+      },
+      "properties": {
+        "code": "HGR",
+        "name": "Hagerstown Regional Airport FCT",
+        "address": "18400 Henson Blvd, Hagerstown, MD 21742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72227,
+          40.065627
+        ]
+      },
+      "properties": {
+        "code": "HLG",
+        "name": "Wheeling-Ohio County Airport FCT",
+        "address": "Main Terminal Building, Wheeling, WV 26003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86599,
+          38.06511
+        ]
+      },
+      "properties": {
+        "code": "HUT",
+        "name": "Hutchinson Municipal Airport FCT",
+        "address": "1100 Airport Road - Room 16, Hutchinson, KS 67501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.884786,
+          41.265731
+        ]
+      },
+      "properties": {
+        "code": "HVN",
+        "name": "Tweed-New Haven Airport FCT",
+        "address": "10 Thompson Avenue, East Haven, CT 06512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28685,
+          41.66701
+        ]
+      },
+      "properties": {
+        "code": "HYA",
+        "name": "Hyannis/Barnstable Airport FCT",
+        "address": "472 Barnstable Rd. Box - 1, Hyannis, MA 02601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.943151,
+          43.100309
+        ]
+      },
+      "properties": {
+        "code": "IAG",
+        "name": "Niagara Falls International Airport FCT",
+        "address": "9990 Porter Road, Niagara Falls, NY 14304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91832,
+          41.24503
+        ]
+      },
+      "properties": {
+        "code": "IPT",
+        "name": "Williamsport Regional Airport FCT",
+        "address": "710 Airport Road, Montoursville, PA 17754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.609405,
+          35.325301
+        ]
+      },
+      "properties": {
+        "code": "ISO",
+        "name": "Kinston Regional Jetport at Stallings Field",
+        "address": "2920 Rouse Road Ext., Kinston, NC 28504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45855,
+          42.48812
+        ]
+      },
+      "properties": {
+        "code": "ITH",
+        "name": "Ithaca Tompkins International Airport FCT",
+        "address": "72 Brown Road, Ithaca, NY 14850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66454,
+          33.304144
+        ]
+      },
+      "properties": {
+        "code": "IWA",
+        "name": "Mesa-Gateway Airport FCT",
+        "address": "6309 S Taxiway Circle, Bldg 3, Mesa, AZ 85212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.89517,
+          38.83622
+        ]
+      },
+      "properties": {
+        "code": "IXD",
+        "name": "New Century Aircenter Airport FCT",
+        "address": "221 Gardner Drive, Suite 2, New Century, KS 66031-1122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.168258,
+          38.593379
+        ]
+      },
+      "properties": {
+        "code": "JEF",
+        "name": "Jefferson City Memorial Airport FCT",
+        "address": "500-B Airport Road, Jefferson City, MO 65101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.488073,
+          37.151146
+        ]
+      },
+      "properties": {
+        "code": "JLN",
+        "name": "Joplin Regional Airport FCT",
+        "address": "600 Colonial Drive, Webb City, MO 64870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.041738,
+          42.622888
+        ]
+      },
+      "properties": {
+        "code": "JVL",
+        "name": "Southern Wisconsin Regional Airport FCT",
+        "address": "3926 S. Oakhill Ave., Janesville, WI 53546-8913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.460745,
+          42.254879
+        ]
+      },
+      "properties": {
+        "code": "JXN",
+        "name": "Jackson County-Reynolds Field Airport FCT",
+        "address": "3608 Wildwood Ave. 3rd Floor, Jackson, MI 49202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.553491,
+          39.091599
+        ]
+      },
+      "properties": {
+        "code": "JYO",
+        "name": "Leesburg Executive Airport FCT",
+        "address": "Sycolin Road SE, Leesburg, VA 20175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.406202,
+          40.272478
+        ]
+      },
+      "properties": {
+        "code": "LBE",
+        "name": "Arnold Palmer Regional Airport FCT",
+        "address": "148 Aviation Lane, Suite 102, Latrobe, PA 15650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.320357,
+          43.629169
+        ]
+      },
+      "properties": {
+        "code": "LEB",
+        "name": "Lebanon Regional Airport FCT",
+        "address": "10 Airport Road, West Lebanon, NH 03784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.278767,
+          40.125338
+        ]
+      },
+      "properties": {
+        "code": "LNS",
+        "name": "Lancaster Airport FCT",
+        "address": "200 East Millport Road, Lititz, PA 17543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08809,
+          41.60748
+        ]
+      },
+      "properties": {
+        "code": "LOT",
+        "name": "Lewis University Airport FCT",
+        "address": "5 George J. Michas Drive, Romeoville, IL 60446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.25127,
+          43.87157
+        ]
+      },
+      "properties": {
+        "code": "LSE",
+        "name": "La Crosse Municipal Airport FCT",
+        "address": "2873 Fanta Reed Road, La Crosse, WI 54603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.422918,
+          39.107267
+        ]
+      },
+      "properties": {
+        "code": "LUK",
+        "name": "Cincinnati Municipal Airport Lunken FCT",
+        "address": "465 Wilmer Avenue, Cincinnati, OH 45226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40397,
+          37.857342
+        ]
+      },
+      "properties": {
+        "code": "LWB",
+        "name": "Greenbrier Valley Airport FCT",
+        "address": "584 Airport Rd PO Box 6, Lewisburg, WV 24901-9512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.120722,
+          42.714054
+        ]
+      },
+      "properties": {
+        "code": "LWM",
+        "name": "Lawrence Municipal Airport FCT",
+        "address": "492 Sutton Street, North Andover, MA 01845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20258,
+          37.32875
+        ]
+      },
+      "properties": {
+        "code": "LYH",
+        "name": "Lynchburg Regional-Preston Glen Airport FCT",
+        "address": "116 Hangar Road, Lynchburg, VA 24502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.252023,
+          37.776372
+        ]
+      },
+      "properties": {
+        "code": "MDH",
+        "name": "Southern Illinois Airport FCT",
+        "address": "685 N. Airport Drive, Murphysboro, IL 62966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.955935,
+          39.629782
+        ]
+      },
+      "properties": {
+        "code": "MGW",
+        "name": "Morgantown Municipal-Hart Airport FCT",
+        "address": "170 Hartfield Road, 4th Floor, Morgantown, WV 26505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.669811,
+          39.137157
+        ]
+      },
+      "properties": {
+        "code": "MHK",
+        "name": "Manhattan Municipal Airport FCT",
+        "address": "5500 Skyway Dr. Suite 110, Manhattan, KS 66502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.39127,
+          40.24027
+        ]
+      },
+      "properties": {
+        "code": "MIE",
+        "name": "Delaware County-Johnson Field Airport FCT",
+        "address": "401 W. Carl Simmons Dr, Muncie, IN 47303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.28619,
+          48.2552
+        ]
+      },
+      "properties": {
+        "code": "MOT",
+        "name": "Minot International Airport FCT",
+        "address": "317 Airport Road, Minot, ND 58701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.425355,
+          39.330848
+        ]
+      },
+      "properties": {
+        "code": "MTN",
+        "name": "Martin State Airport FCT",
+        "address": "701 Wilson Pt. Road, Box 1, Middle River, MD 21220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.513007,
+          41.389424
+        ]
+      },
+      "properties": {
+        "code": "MVY",
+        "name": "Martha's Vineyard Airport FCT",
+        "address": ", Edgartown, MA 02539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.014511,
+          37.748746
+        ]
+      },
+      "properties": {
+        "code": "MWA",
+        "name": "Veterans Airport of Southern Illinois",
+        "address": "7720 Aviation Drive, Marion, IL 62959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.034123,
+          43.111375
+        ]
+      },
+      "properties": {
+        "code": "MWC",
+        "name": "Lawrence J. Timmerman Airport FCT",
+        "address": "5001 N. 91st Street, Milwaukee, WI 53225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.606971,
+          34.829049
+        ]
+      },
+      "properties": {
+        "code": "OAJ",
+        "name": "Albert J. Ellis Airport FCT",
+        "address": "264 Albert Ellis Airport Rd Suite 5, Richlands, NC 28574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.741221,
+          38.848059
+        ]
+      },
+      "properties": {
+        "code": "OJC",
+        "name": "Johnson County Executive Airport FCT",
+        "address": "15475 Pflumm Road, Olathe, KS 66062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.870699,
+          42.262373
+        ]
+      },
+      "properties": {
+        "code": "ORH",
+        "name": "Worcester Regional Airport FCT",
+        "address": "18 Coppage Drive, Worcester, MA 01603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.562161,
+          43.98077
+        ]
+      },
+      "properties": {
+        "code": "OSH",
+        "name": "Wittman Regional Airport FCT",
+        "address": "3110 Knapp St., Oshkosh, WI 54902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07104,
+          40.0751
+        ]
+      },
+      "properties": {
+        "code": "OSU",
+        "name": "Ohio State University Airport FCT",
+        "address": "1950 W. Case Rd., Columbus, OH 43235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.467994,
+          35.24095
+        ]
+      },
+      "properties": {
+        "code": "OUN",
+        "name": "University of Oklahoma Westheimer Airport FCT",
+        "address": "1700 Lexington Ave, Norman, OK 73069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16681,
+          37.738428
+        ]
+      },
+      "properties": {
+        "code": "OWB",
+        "name": "Owensboro Airport FCT",
+        "address": "2200 Airport Rd., Ste. 30, Owensboro, KY 42301-9488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17652,
+          42.186387
+        ]
+      },
+      "properties": {
+        "code": "OWD",
+        "name": "Norwood Municipal Airport FCT",
+        "address": "91 Access Road, Norwood, MA 02062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.135459,
+          41.47823
+        ]
+      },
+      "properties": {
+        "code": "OXC",
+        "name": "Waterbury-Oxford Airport FCT",
+        "address": "288 Christian Street, Oxford, CT 06478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.433699,
+          39.34455
+        ]
+      },
+      "properties": {
+        "code": "PKB",
+        "name": "Parkersburg Regional Airport FCT",
+        "address": "521 Airport Road, Williamstown, WV 26187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.405148,
+          43.225886
+        ]
+      },
+      "properties": {
+        "code": "RME",
+        "name": "Griffis International Airport FCT",
+        "address": "660 Hangar Rd., Box 13, Rome, NY 13441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.100834,
+          32.190649
+        ]
+      },
+      "properties": {
+        "code": "RYN",
+        "name": "Ryan Field Airport FCT",
+        "address": "6155 S. Aviation Lane, Tucson, AZ 85735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.084468,
+          35.618303
+        ]
+      },
+      "properties": {
+        "code": "SAF",
+        "name": "Santa Fe Regional Airport FCT",
+        "address": "121 Aviation Drive, Santa Fe, NM 87507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.387322,
+          46.349749
+        ]
+      },
+      "properties": {
+        "code": "SAW",
+        "name": "Sawyer International Airport FCT",
+        "address": "125 G Ave., Gwinn, MI 49841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.582368,
+          38.368879
+        ]
+      },
+      "properties": {
+        "code": "SBY",
+        "name": "Salisbury Regional Airport FCT",
+        "address": "5473 Terminal Road, Salisbury, MD 21804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.641498,
+          38.78894
+        ]
+      },
+      "properties": {
+        "code": "SLN",
+        "name": "Salina Municipal Airport FCT",
+        "address": "2000 Kneubuhl Court, Salina, KS 67401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.060249,
+          45.5507
+        ]
+      },
+      "properties": {
+        "code": "STC",
+        "name": "ST. Cloud Regional Airport FCT",
+        "address": "1550 45th Ave. SE, Suite #5, St. Cloud, MN 56304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.094788,
+          41.510239
+        ]
+      },
+      "properties": {
+        "code": "SWF",
+        "name": "Stewart International Airport FCT",
+        "address": "2 Express Dr., Newburgh, NY 12550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.19911,
+          36.159252
+        ]
+      },
+      "properties": {
+        "code": "SWO",
+        "name": "Stillwater Regional Airport FCT",
+        "address": "2020-9 W. Airport Road, Stillwater, OK 74075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.620652,
+          39.065691
+        ]
+      },
+      "properties": {
+        "code": "TOP",
+        "name": "Topeka-Billard Municipal Airport FCT",
+        "address": "3520 NE Seward Avenue, Topeka, KS 66616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.148708,
+          39.322129
+        ]
+      },
+      "properties": {
+        "code": "TRK",
+        "name": "Truckee Tahoe Airport NFCT",
+        "address": "10356 Truckee Airport Road, Truckee, CA 96161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.817902,
+          40.278918
+        ]
+      },
+      "properties": {
+        "code": "TTN",
+        "name": "Trenton-Mercer Airport FCT",
+        "address": "110 Control Tower Dr., Ste. 401, West Trenton, NJ 08628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1376,
+          39.904965
+        ]
+      },
+      "properties": {
+        "code": "TZR",
+        "name": "Bolton Field Airport FCT",
+        "address": "2000 Norton Road, Columbus, OH 43228-3644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.237634,
+          43.038863
+        ]
+      },
+      "properties": {
+        "code": "UES",
+        "name": "Waukesha County Airport FCT",
+        "address": "2525 Aviation Drive, Waukesha, WI 53188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865792,
+          42.417019
+        ]
+      },
+      "properties": {
+        "code": "UGN",
+        "name": "Waukegan Regional Airport FCT",
+        "address": "3540 N. McAree Road, Waukegan, IL 60087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.849799,
+          40.851892
+        ]
+      },
+      "properties": {
+        "code": "UNV",
+        "name": "University Park Airport FCT",
+        "address": "2499 Fox Hill Road, State College, PA 16803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.787285,
+          36.383617
+        ]
+      },
+      "properties": {
+        "code": "WDG",
+        "name": "Enid Woodring Regional Airport FCT",
+        "address": "1026 South 66th Street Bldg #30, Enid, OK 73701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.060167,
+          34.135553
+        ]
+      },
+      "properties": {
+        "code": "MCAGCC",
+        "name": "Range Control Support \u2013 Air Controllers and Maintenance Support",
+        "address": "Marine Corps Air Ground Combat Center, Twentynine Palms, CA "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.907234,
+          30.408341
+        ]
+      },
+      "properties": {
+        "code": "KAFB",
+        "name": "Weather Services \u2013 Weather Forecasters",
+        "address": "Keesler Air Force Base, Biloxi, MS "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.938628,
+          32.789284
+        ]
+      },
+      "properties": {
+        "code": "JBC",
+        "name": "Polar Program \u2013 Air Traffic Control Support",
+        "address": "Joint Base Charleston, North Charleston, SC "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.295435,
+          38.519534
+        ]
+      },
+      "properties": {
+        "code": "MCB",
+        "name": "Airspace SME Support and Range Airspace Course Instruction",
+        "address": "Marine Corps Base Quantico, Quantico, VA "
+      }
+    }
+  ]
+}
